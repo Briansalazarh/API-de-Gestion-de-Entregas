@@ -4,7 +4,7 @@ API REST desarrollada para gestionar destinatarios y entregas, aplicando patrone
 
 Tecnologías
 
-Java 17
+Java 21
 
 Spring Boot 3
 
